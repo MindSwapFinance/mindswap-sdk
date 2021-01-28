@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@mindswap/v2-core": "^1.0.0",
+    "@mindswap/v2-core": "https://github.com/MindSwapFinance/mindswap-v2-core.git",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
